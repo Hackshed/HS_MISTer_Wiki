@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to the Hackshed MiSTer FPGA Wiki
+
+First attempt to set up a github pages site to track my personal MiSTer FPGA Wiki
+Mainly a repository for my own notes and findings but others may find it useful...... or they may not
+
+
+
+Ignore all bolow.........
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/Hackshed/HS_MISTer_Wiki/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
