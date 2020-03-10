@@ -9,8 +9,8 @@ Getting Started
 [Sega Megadrive](mister_megadrive.md)
 [Nintendo Entertainment System](mister_nes.md)
 [Super Nintendo Entertainment System](mister_snes.md)
-Nintendo Gameboy / Colour
-Nintendo Gameboy Advance
+[Nintendo Gameboy / Colour](mister_gb.md)
+[Nintendo Gameboy Advance](mister_gba.md)
 Atari 2600
 PCEngine / TurboGrafx 16
 
