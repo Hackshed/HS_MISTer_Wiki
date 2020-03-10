@@ -2,7 +2,7 @@
 
 
 #### System Setup
-Getting Started
+[Getting Started](mister_getstart.md)
 
  
 #### Per-system Console Setup
@@ -11,8 +11,8 @@ Getting Started
 [Super Nintendo Entertainment System](mister_snes.md)
 [Nintendo Gameboy / Colour](mister_gb.md)
 [Nintendo Gameboy Advance](mister_gba.md)
-Atari 2600
-PCEngine / TurboGrafx 16
+[Atari 2600](mister_2600.md)
+[PCEngine / TurboGrafx 16](mister_pce.md)
 
 
 #### Per-system Computer Setup
