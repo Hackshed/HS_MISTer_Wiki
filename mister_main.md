@@ -7,6 +7,7 @@
  
 #### Per-system Console Setup
 [Sega Megadrive](mister_megadrive.md)
+[Sega Master System](mister_mastersystem.md)
 [Nintendo Entertainment System](mister_nes.md)
 [Super Nintendo Entertainment System](mister_snes.md)
 [Nintendo Gameboy / Colour](mister_gb.md)
