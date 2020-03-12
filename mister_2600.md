@@ -3,4 +3,4 @@
 
 
 #### Controller
-<img src="atari_2600.png" alt="SMS Controller" width="500"/>
+<img src="/images/controllers/atari_2600.png" alt="SMS Controller" width="500"/>

@@ -1,4 +1,4 @@
 ### Sega Megadrive
 
 #### Controller
-<img src="megadrivecontroller.png" alt="SMS Controller" width="500"/>
+<img src="/images/controllers/megadrivecontroller.png" alt="SMS Controller" width="500"/>

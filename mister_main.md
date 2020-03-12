@@ -6,13 +6,13 @@
 
  
 #### Per-system Console Setup
+[Atari 2600](mister_2600.md)
 [Sega Megadrive](mister_megadrive.md)
-[Sega Master System](mister_mastersystem.md)
+[Sega Master System](mister_sms.md)
 [Nintendo Entertainment System](mister_nes.md)
 [Super Nintendo Entertainment System](mister_snes.md)
 [Nintendo Gameboy / Colour](mister_gb.md)
 [Nintendo Gameboy Advance](mister_gba.md)
-[Atari 2600](mister_2600.md)
 [PCEngine / TurboGrafx 16](mister_pce.md)
 
 

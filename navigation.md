@@ -2,4 +2,4 @@
 
 [Main](index.md)
 [MiSTer FPGA](mister_main.md)
-[Retroarch](retroarch_main.md)
+[Retroarch](/retroarch/retroarch_main.md)

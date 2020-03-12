@@ -10,16 +10,16 @@ You will require a core for each emulated system.
 Further information for specifc cores for each system can be found in the wiki pages.
 
 The final step is to create a folder for rom files.
-This can be anywhere although I prefer to keep it in the same location as teh retroarch folder.
+This can be anywhere although I prefer to keep it in the same location as the Retroarch folder.
 
 I tend to organise my roms by system name e.g. :-
 
 
 Roms
-|
-|
-|_______Atari2600
-|            |____game.rom
-|_______Megadrive        
-|_______Snes
+  |_______Atari2600
+  |            |____game.rom
+  |_______Megadrive        
+  |_______Snes
 
+Some cores will require BIOS files or other additional files.
+These will be noted in the page for each core.
