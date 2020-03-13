@@ -5,21 +5,21 @@
 
  
 #### Per-system Console Setup
-[Atari 2600]
-[Atari 5200]
-[Atari 7800]
-[Atari Lynx]
-[Atari Jaguar]
-[Atari ST]
-[Sega Megadrive]
-[Sega Master System]
-[Nintendo Entertainment System]
-[Super Nintendo Entertainment System]
+[Atari 2600](retroarch_atari2600.md)
+[Atari 5200](retroarch_atari5200.md)
+[Atari 7800](retroarch_atari7800.md)
+[Atari Lynx](retroarch_lynx.md)
+[Atari Jaguar](retroarch_jaguar.md)
+[Sega Megadrive](retroarch_megadrive.md)
+[Sega Master System](retroarch_sms.md)
+[Nintendo Entertainment System](retroarch_nes.md)
+[Super Nintendo Entertainment System](retroarch_snes.md)
 [Nintendo Gameboy / Colour]
 [Nintendo Gameboy Advance]
 [PCEngine / TurboGrafx 16]
 
 #### Per-system Computer Setup
+[Atari ST](retroarch_atarist.md)
 Acorn BBC
 Atari 800
 Amastrad CPC
