@@ -2,4 +2,4 @@
 
 Core used - ProSystem
 
-Supported rom File extensions - .a78, .bin
+Supported rom file extensions - .a78, .bin

@@ -10,8 +10,9 @@
 [Atari 7800](retroarch_atari7800.md)
 [Atari Lynx](retroarch_lynx.md)
 [Atari Jaguar](retroarch_jaguar.md)
-[Sega Megadrive](retroarch_megadrive.md)
 [Sega Master System](retroarch_sms.md)
+[Sega Megadrive](retroarch_megadrive.md)
+[Sega Dreamcast](retroarch_dreamcast.md)
 [Nintendo Entertainment System](retroarch_nes.md)
 [Super Nintendo Entertainment System](retroarch_snes.md)
 [Nintendo Gameboy / Colour]
