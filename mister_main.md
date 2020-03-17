@@ -3,7 +3,7 @@
 
 #### System Setup
 [Getting Started](mister_getstart.md)
-
+[Optional Extras](mister_optional.md)
  
 #### Per-system Console Setup
 [Atari 2600](mister_2600.md)
@@ -28,6 +28,7 @@ Sinclair ZX Spectrum
 
 
 #### General Info, Tips & Tricks
+[Quick tips](mister_tips.md)
 Per Core RAM Requirements
 
 
