@@ -17,6 +17,7 @@
 
 
 #### Per-system Computer Setup
+[Acorn Archimedes](mister_archimedes.md)
 Acorn BBC
 Atari 800
 Amastrad CPC
