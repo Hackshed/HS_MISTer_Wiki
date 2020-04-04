@@ -20,12 +20,12 @@
 [Acorn Archimedes](mister_archimedes.md)
 Acorn BBC
 Atari 800
-Amastrad CPC
+[Amastrad CPC](mister_amstrad.md)
 Commodore Amiga
 Commodore 64
 Commodore 16
 Commodore VIC20
-Sinclair ZX Spectrum
+[Sinclair ZX Spectrum](mister_spectrum.md)
 
 
 #### General Info, Tips & Tricks

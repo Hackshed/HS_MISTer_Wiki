@@ -1,6 +1,7 @@
 ### MiSTer FPGA Tips
 
 F1 on main screen changes background image
+F9 on main screen takes you to the linux command prompt
 
 Names.txt
 To rename the cores with something more meaningful, create a file on the root of the SD card called names.txt
