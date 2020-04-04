@@ -22,7 +22,7 @@ Acorn BBC
 Atari 800
 [Amastrad CPC](mister_amstrad.md)
 Commodore Amiga
-Commodore 64
+[Commodore 64](mister_c64.md)
 Commodore 16
 Commodore VIC20
 [Sinclair ZX Spectrum](mister_spectrum.md)

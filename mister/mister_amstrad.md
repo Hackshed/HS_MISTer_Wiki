@@ -2,7 +2,7 @@
 
 [Official Link](https://github.com/MiSTer-devel/Amstrad_MiSTer)
 
-[Bios](/mister_bios/amstrad.rom)
+[Bios](mister_bios/amstrad.rom)
 
 
 
