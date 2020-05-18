@@ -25,6 +25,7 @@ Commodore Amiga
 [Commodore 64](mister_c64.md)
 Commodore 16
 Commodore VIC20
+[PC Compatible](mister_ao486.md)
 [Sinclair ZX Spectrum](mister_spectrum.md)
 
 
