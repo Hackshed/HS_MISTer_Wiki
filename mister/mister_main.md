@@ -27,11 +27,12 @@ Commodore 16
 Commodore VIC20
 [PC Compatible](mister_ao486.md)
 [Sinclair ZX Spectrum](mister_spectrum.md)
-
+[My ao486 Images](mister_pcimages.md)
 
 #### General Info, Tips & Tricks
 [Quick tips](mister_tips.md)
 Per Core RAM Requirements
+
 
 
 
